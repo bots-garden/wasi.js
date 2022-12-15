@@ -1,0 +1,25 @@
+{
+  "name": "@bots-garden/wasi",
+  "version": "0.0.0",
+  "description": "Node.js helper for the WASI specification",
+  "main": "./src/main.mjs",
+  "exports": {
+    ".": "./src/main.mjs"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bots-garden/wasi.js.git"
+  },
+  "author": "k33g",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bots-garden/wasi.js/issues"
+  },
+  "homepage": "https://github.com/bots-garden/wasi.js#readme"
+}
