@@ -1,5 +1,5 @@
 {
-  "name": "@bots-garden/wasi",
+  "name": "@bots-garden/wasi.js",
   "version": "0.0.0",
   "description": "Node.js helper for the WASI specification",
   "main": "./src/main.mjs",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/bots-garden/wasi.js/issues"
   },
-  "homepage": "https://github.com/bots-garden/wasi.js#readme"
+  "homepage": "https://github.com/bots-garden/wasi.js#readme",
+  "dependencies": {
+    "wasi": "^0.0.6"
+  }
 }

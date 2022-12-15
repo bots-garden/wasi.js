@@ -161,7 +161,7 @@ case $1 in
     ;;
 
   # 🔧: wrench
-  wrench)
+  wrench|config)
     message="Add or update configuration files"
     emoji="🔧"
     ;;
