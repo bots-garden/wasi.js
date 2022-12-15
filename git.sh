@@ -16,7 +16,7 @@ case $1 in
     ;;
 
   # 🔥: fire
-  fire)
+  fire|remove)
     message="Remove code or files"
     emoji="🔥"
     ;;
