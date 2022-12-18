@@ -1,5 +1,5 @@
 {
-  "name": "wasi.js",
+  "name": "@k33g/wasi.js",
   "version": "0.0.0",
   "description": "Node.js helper for the WASI specification",
   "main": "./src/main.mjs",
