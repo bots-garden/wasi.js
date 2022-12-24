@@ -1,1 +1,2 @@
 # wasi.js
+> test
