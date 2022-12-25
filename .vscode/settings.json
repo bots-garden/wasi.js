@@ -1,0 +1,16 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Solarized Dark",
+    "go.useLanguageServer": true,
+    "go.toolsEnvVars": {
+      "GOOS": "linux",
+      "GOARCH": "amd64",
+    },
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.fontSize": 16,
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "java.configuration.updateBuildConfiguration": "automatic",
+}
+
